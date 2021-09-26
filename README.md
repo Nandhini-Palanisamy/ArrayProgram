@@ -1,6 +1,7 @@
 # ArrayProgram
 Q1: Find the minimum and maximum elements in array?
 Ans:
+
 class  ArrayDemo
 {
 	public static void main(String[] args) 
@@ -21,8 +22,10 @@ class  ArrayDemo
 	}
 }
 
+
 Q2:Write a program to reverse the array?
 Ans:
+
 class ArrayReverse 
 {
 	public static void main(String[] args) 
@@ -45,8 +48,10 @@ class ArrayReverse
 	}
 }
 
+
 Q3:Write a program to sort a given array?
 Ans:
+
 class ArraySort 
 {
 	public static void main(String[] args) 
@@ -79,8 +84,10 @@ class ArraySort
 	}
 }
 
+
 Q5:Move all negative elements to one side of the array?
 Ans:
+
 class ArrayOneSide
 {
 	public static void main(String[] args) 
@@ -109,8 +116,10 @@ class ArrayOneSide
 	}
 }
 
+
 Q6:Find duplicates in an array?
 Ans:
+
 class ArrayDuplicate
 {
 	public static void main(String[] args) 
@@ -133,8 +142,10 @@ class ArrayDuplicate
 	}
 }
 
+
 Q7:Find a factorial of a large number?
 Ans:
+
 class ArrayFact 
 {
 	public static void main(String[] args) 
@@ -156,8 +167,10 @@ class ArrayFact
 	}
 }
 
+
 Q8:How to find common elements  in three sorted array?
 Ans:
+
 class ArraySortThreeEle 
 {
 	public static void main(String[] args) 
@@ -192,8 +205,10 @@ class ArraySortThreeEle
 	}
 }
 
+
 Q10:Write a program to find the sum and product of all elements of an array?
 Ans:
+
 class ArraySum 
 {
 	public static void main(String[] args) 
